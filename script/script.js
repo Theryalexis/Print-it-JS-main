@@ -17,12 +17,11 @@ const slides = [
 	}
 ]
 
-let clickgauche = document.getElementById("#slidegauche");
-clickgauche.addEventListener("click", ()=> {
-console.log("vous avez cliqué sur la flèche gauche")
-});
+document.body.onload = function () {
+	
+	const slidegauche = document.getElementById(.slidegauche)
+	const slidedroit = document.getElementById(.slidedroit)
 
-let clickdroit = document.getElementById("#slidedroit");
-clickdroit.addEventListener("click",()=> {
-console.log("vous avez cliqué sur la flèche droit")
-});
+	
+
+}
