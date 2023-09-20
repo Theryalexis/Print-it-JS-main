@@ -22,7 +22,9 @@ document.body.onload = function () {
 	const slidegauche = document.getElementById('slidegauche')
 	const slidedroit = document.getElementById('slidedroit')
 	
-	slidegauche.addEventListener = 
-	slidedroit.addEventListener = 
+	slidegauche.addEventListener = ("click", function())
+	slidedroit.addEventListener = ("click", function())
+
+	
 
 }
