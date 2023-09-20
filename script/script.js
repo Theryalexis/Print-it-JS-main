@@ -19,9 +19,10 @@ const slides = [
 
 document.body.onload = function () {
 	
-	const slidegauche = document.getElementById(.slidegauche)
-	const slidedroit = document.getElementById(.slidedroit)
-
+	const slidegauche = document.getElementById('slidegauche')
+	const slidedroit = document.getElementById('slidedroit')
 	
+	slidegauche.addEventListener = 
+	slidedroit.addEventListener = 
 
 }
